@@ -45,10 +45,12 @@ Git and GitHub
 
 ## ✨Personal Projects
 
-TradingApp
+**TradingApp**
 
 This is a simple ASP.NET MVC web application written with C# which allows users to trade 3D virtual models. The trading subject is just an idea as the app works only with images instead of actual 3D model files.  
 
-Pixel_Colour_Manipulator
+<br>
+
+**Pixel_Colour_Manipulator**
 
 A colour manipulation sandbox for experimentation, learning and visual effects which ca be applied to videos, images, and screen content. The application is written with Python and works only on Windows OS. 
