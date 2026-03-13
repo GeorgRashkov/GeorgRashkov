@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I am a recent software engineering graduate looking for a job or internship program. I have been studying computer Science and Artificial Intelligence in the `University of Library studies and Information technologies` and currently I am studying the C# Web module in `SoftUni`.
 
+---
+<br>
 
 ## ⚡Technologies I am using
 
@@ -38,7 +40,8 @@ Microsoft SQL Server
 Version Control: 
 Git and GitHub 
 
-
+---
+<br>
 
 ## ✨Personal Projects
 
