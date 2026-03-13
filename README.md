@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **Georg Rashkov** 
 
-I am a recent software engineering graduate looking for a job or internship program. I have been studying computer Science and Artificial Intelligence in the `University of Library studies and Information technologies` and currently I am studying the C# Web module in SoftUni.
+I am a recent software engineering graduate looking for a job or internship program. I have been studying computer Science and Artificial Intelligence in the `University of Library studies and Information technologies` and currently I am studying the C# Web module in `SoftUni`.
 
 
 ⚡**Technologies I am using**
