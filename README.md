@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Georg Rashkov** 
+## About me
 
 I am a recent software engineering graduate looking for a job or internship program. I have been studying computer Science and Artificial Intelligence in the `University of Library studies and Information technologies` and currently I am studying the C# Web module in `SoftUni`.
 
 
-⚡**Technologies I am using**
+## ⚡Technologies I am using
 
 Programming languages:
 C#, Python, SQL
@@ -42,7 +42,7 @@ Git and GitHub
 
 
 
-🔭**Personal Projects**
+## ✨Personal Projects
 
 TradingApp
 
